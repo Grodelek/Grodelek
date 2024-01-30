@@ -4,4 +4,5 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <h3>Java</h3>
+<h3>Core C</h3>
 <h3>SQL</h3>
