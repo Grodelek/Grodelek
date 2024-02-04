@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Artur</h1>
-<h3 align="center">A passionate student that loves to code</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=1EF718&random=false&width=435&lines=Hi.+I'm+Artur)](https://git.io/typing-svg)
 
 
 <h2 align="left">Languages and Tools:</h2>
