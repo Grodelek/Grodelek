@@ -4,4 +4,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,github)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Grodelek&theme=buefy-dark&hide_border=true&card_width=600&dates=EB545400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Grodelek&theme=buefy-dark&hide_border=true&card_width=500&dates=EB545400)](https://git.io/streak-stats)
