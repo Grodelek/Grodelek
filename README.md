@@ -3,3 +3,5 @@
 <center><h2>🛠️ Languages Frameworks Tools 🛠️</h2></center>
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,github)](https://skillicons.dev)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Grodelek)](https://git.io/streak-stats)
