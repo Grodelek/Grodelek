@@ -15,6 +15,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Grodelek&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grodelek&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Grodelek?theme=nord&font=Cabin)
