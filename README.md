@@ -3,4 +3,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,github)](https://skillicons.dev)
 <h2></h2>
-![LeetCode Stats](https://leetcard.jacoblin.cool/Grodelek?theme=nord&font=Cabin)
+(https://leetcard.jacoblin.cool/Grodelek?theme=nord&font=Cabin)
