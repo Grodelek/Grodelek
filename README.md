@@ -13,5 +13,5 @@
 
 # 🎯 Goals for 2024:
 -Spring and Spring Boot framework<br>
--Docker<br>
+-Hibernate<br>
 
