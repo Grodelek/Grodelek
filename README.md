@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/artur-grodel-91aabb279) 
-#15337
+
 
 # 💻 Technologies:
 [![My Skills](https://skillicons.dev/icons?i=java,c,py,html,css,mysql)](https://skillicons.dev)
