@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/grodelek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artur-grodel-91aabb279) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)(https://linkedin.com/in/artur-grodel-91aabb279) 
 
 # 💻 Technologies:
 [![My Skills](https://skillicons.dev/icons?i=java,c,py,html,css,mysql)](https://skillicons.dev)
