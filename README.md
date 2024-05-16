@@ -12,6 +12,6 @@
 
 
 # 🎯 Goals for 2024:
-[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate)](https://skillicons.dev)
 
 
