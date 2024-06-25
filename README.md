@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=1EF718&random=false&width=435&lines=Hi.+I'm+Artur)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 Future Software Engineer<br>🎓 4th Semester Computer Science Student<br>⚡ Passionate in  Programming and Tech.
+🔭 Future Software Engineer<br>🎓 4th Semester Computer Science Student<br>⚡ Passionate in  Programming and Tech
 
 
 ## 🌐 Socials:
