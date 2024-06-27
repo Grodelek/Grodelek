@@ -9,7 +9,7 @@
 
 
 # 💻 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,mysql)](https://skillicons.dev)
 
 
 # 🎯 Goals for 2024:
