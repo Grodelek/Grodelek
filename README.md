@@ -16,6 +16,6 @@
 [![My Skills](https://skillicons.dev/icons?i=spring,hibernate)](https://skillicons.dev)
 
 
-<a href="https://grodelek.github.io/portfolio/"># Portfolio</a>
+<a href="https://grodelek.github.io/portfolio/">Portfolio</a>
 
 
