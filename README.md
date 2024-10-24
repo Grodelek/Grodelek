@@ -15,7 +15,7 @@
 # 🎯 Goals for 2024:
 [![My Skills](https://skillicons.dev/icons?i=spring,hibernate)](https://skillicons.dev)
 
-# Portfolio
-<a href="https://grodelek.github.io/portfolio/">Portfolio</a>
+
+<a href="https://grodelek.github.io/portfolio/"># Portfolio</a>
 
 
