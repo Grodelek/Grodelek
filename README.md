@@ -9,11 +9,10 @@
 
 
 # 💻 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,symfony,html,css,mysql)](https://skillicons.dev)
 
 
 # 🎯 Goals for 2024:
-[![My Skills](https://skillicons.dev/icons?i=spring,hibernate)](https://skillicons.dev)
 
 
 <a href="https://grodelek.github.io/portfolio/">Portfolio</a>
