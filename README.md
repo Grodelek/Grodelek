@@ -15,6 +15,6 @@
 # 🎯 Goals for 2024:
 
 
-<a href="https://grodelek.github.io/portfolio/"><h2>Portfolio</h2></a>
+<a href="https://grodelek.github.io/portfolio/">Portfolio</a>
 
 
