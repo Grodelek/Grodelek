@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 🔭 Backend Software Engineer<br>🎓 5th Semester Computer Science Student<br>⚡ Passionate in Backend Programming and Tech
-
+<br>
+<a href="https://grodelek.github.io/portfolio/">Portfolio</a>
 
 ## 🌐 Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/artur-grodel-91aabb279) 
@@ -14,7 +15,5 @@
 
 # 🎯 Goals for 2024:
 
-
-<a href="https://grodelek.github.io/portfolio/">Portfolio</a>
 
 
