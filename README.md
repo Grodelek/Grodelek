@@ -13,7 +13,5 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,symfony,html,css,mysql)](https://skillicons.dev)
 
 
-# 🎯 Goals for 2024:
-
 
 
