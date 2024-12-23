@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=1EF718&random=false&width=435&lines=Hi.+I'm+Artur)](https://git.io/typing-svg)
+
 <h2><a href="https://grodelek.github.io/portfolio/">Portfolio</a></h2>
 
 # 💫 About Me:
@@ -15,7 +16,3 @@
 
 # 📚 Currently learning:
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,mui)](https://skillicons.dev)
-
-
-
-
