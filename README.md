@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26CB42&width=435&lines=Hello+I'm+Artur;Software+Engineer)](https://git.io/typing-svg)
-
 <h2><a href="https://grodelek.github.io/portfolio/">Portfolio</a></h2>
 
 # 💫 About Me:
