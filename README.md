@@ -14,7 +14,7 @@
 
 
 # 📚 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,mui)](https://skillicons.dev)
 
 
 
