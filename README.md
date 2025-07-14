@@ -5,7 +5,7 @@
 🔭 Backend Software Engineer<br>🎓 7th Semester Computer Science Student<br>⚡ Passionate in Backend Programming and Tech
 <br>
 
-# 🌐 Contact:
+# 🌐 Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/artur-grodel-91aabb279) 
 
 
