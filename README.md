@@ -10,8 +10,8 @@
 
 
 # 💻 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,symfony,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,symfony,html,css,mysql,linux)](https://skillicons.dev)
 
 
 # 📚 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,mui,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,aws,typescript,neovim)](https://skillicons.dev)
