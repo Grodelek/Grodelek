@@ -2,7 +2,7 @@
 <h1><a href="https://grodelek.github.io/portf">Portfolio</a></h1>
 
 # 💫 About Me:
-🔭 Backend Software Engineer<br>🎓 6th Semester Computer Science Student<br>⚡ Passionate in Backend Programming and Tech
+🔭 Backend Software Engineer<br>🎓 7th Semester Computer Science Student<br>⚡ Passionate in Backend Programming and Tech
 <br>
 
 # 🌐 Contact:
