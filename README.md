@@ -14,4 +14,4 @@
 
 
 # 📚 Currently learning:
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,aws,typescript,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,aws,typescript,neovim)](https://skillicons.dev)
